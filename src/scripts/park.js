@@ -1,3 +1,4 @@
+//builds park html element utilizing build element from domManager.js
 const buildParkHtml = parkObject => {
   // <article>
   //  <h3>Park Name</h3>
@@ -10,6 +11,6 @@ const buildParkHtml = parkObject => {
 
   let deleteParkButton = buildElement("button", `delete-park--${parkObject.id}`, "Delete Park")
   parkArticle.appendChild(deleteParkButton);
-  deleteParkButton.addEventListener("click", handleDelete)
+  deleteParkButton.addEventListener("click", handleParkDelete)
   return parkArticle;
 };

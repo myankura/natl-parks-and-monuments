@@ -1,30 +1,6 @@
 {
   "parks": [
     {
-      "id": 1,
-      "name": "Jackson Hole",
-      "state": "WY",
-      "latitude": 43.582767,
-      "longitude": -110.821999,
-      "visited": false
-    },
-    {
-      "id": 2,
-      "name": "Mojave National Preserve",
-      "state": "CA",
-      "latitude": 35.141689,
-      "longitude": -115.510399,
-      "visited": true
-    },
-    {
-      "id": 3,
-      "name": "Joshua Tree National Park",
-      "state": "CA",
-      "latitude": 33.881866,
-      "longitude": -115.90065,
-      "visited": true
-    },
-    {
       "id": 4,
       "name": "Yellowstone National Park",
       "state": "WY",
@@ -82,54 +58,6 @@
     }
   ],
   "monuments": [
-    {
-      "id": 1,
-      "name": "Chimney Rock",
-      "state": "CO",
-      "area": 4724,
-      "dateEstablished": "09-21-2012",
-      "visited": false
-    },
-    {
-      "id": 2,
-      "name": "Devils Tower",
-      "state": "WY",
-      "area": 1347.21,
-      "dateEstablished": "09-24-1906",
-      "visited": false
-    },
-    {
-      "id": 3,
-      "name": "Giant Sequoia",
-      "state": "CA",
-      "area": 352626,
-      "dateEstablished": "04-15-2000",
-      "visited": true
-    },
-    {
-      "id": 4,
-      "name": "Gold Butte",
-      "state": "NV",
-      "area": 296937,
-      "dateEstablished": "12-28-2016",
-      "visited": true
-    },
-    {
-      "id": 5,
-      "name": "Harriet Tubman Underground Railroad",
-      "state": "MD",
-      "area": 480,
-      "dateEstablished": "03-25-2013",
-      "visited": false
-    },
-    {
-      "id": 6,
-      "name": "Marianas Trench Marine",
-      "state": "Northern Mariana Islands, Guam",
-      "area": 61077668,
-      "dateEstablished": "01-06-2009",
-      "visited": false
-    },
     {
       "id": 7,
       "name": "Misty Fjords",
